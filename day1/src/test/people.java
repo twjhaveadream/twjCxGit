@@ -6,5 +6,6 @@ package test;
  */
 public class people {
     private String address;
+    private String address;
 
 }
