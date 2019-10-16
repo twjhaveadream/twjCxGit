@@ -6,4 +6,5 @@ package test;
  */
 public class student {
     private String age;
+    private String age;
 }
